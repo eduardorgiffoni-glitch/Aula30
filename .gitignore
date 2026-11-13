@@ -1,0 +1,9 @@
+target/
+bin/
+*.class
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+.idea/
+.settings/
